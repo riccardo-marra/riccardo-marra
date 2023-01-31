@@ -1,8 +1,21 @@
 Hi 👋 My name is Riccardo Marra
 ===============================
+``` python
+#!/usr/bin/python
 
-* 🌍  I'm based in Rome
-* 🧠  I'm learning Computer Engineering
+class Person:
+
+    def __init__(self):
+        self.occupation = "Computer Engineering Student"
+        self.languages_spoken = ["Italian", "English"]
+        
+    def say_hi(self):
+        print("Hello!")
+
+
+me = Person()
+me.say_hi()
+```
 
 ### Skills
 
