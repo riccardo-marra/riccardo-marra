@@ -6,7 +6,7 @@ Hi 👋 My name is Riccardo Marra
 class Person:
 
     def __init__(self):
-        self.occupation = "Computer Engineering Student"
+        self.occupation = "Internet Engineering Student"
         self.languages_spoken = ["Italian", "English"]
         
     def say_hi(self):
